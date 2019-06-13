@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5773" started-at="2019-06-13T18:41:58Z" finished-at="2019-06-13T18:42:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5773" started-at="2019-06-13T18:41:58Z" finished-at="2019-06-13T18:42:04Z">
+      <class name="QA_Technical_Test.API_Get_ProductBy_Id">
+        <test-method status="PASS" signature="Verify_Response_Code()[pri:1, instance:QA_Technical_Test.API_Get_ProductBy_Id@be92ad]" name="Verify_Response_Code" duration-ms="5688" started-at="2019-06-13T18:41:58Z" finished-at="2019-06-13T18:42:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Response_Code -->
+        <test-method status="PASS" signature="Verify_Response_Body()[pri:2, instance:QA_Technical_Test.API_Get_ProductBy_Id@be92ad]" name="Verify_Response_Body" duration-ms="31" started-at="2019-06-13T18:42:04Z" finished-at="2019-06-13T18:42:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Response_Body -->
+        <test-method status="PASS" signature="Verify_Response_Time()[pri:3, instance:QA_Technical_Test.API_Get_ProductBy_Id@be92ad]" name="Verify_Response_Time" duration-ms="21" started-at="2019-06-13T18:42:04Z" finished-at="2019-06-13T18:42:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Response_Time -->
+      </class> <!-- QA_Technical_Test.API_Get_ProductBy_Id -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

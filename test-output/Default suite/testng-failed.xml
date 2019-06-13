@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="QA_Technical_Test.API_Get_ProductBy_Id">
+        <methods>
+          <include name="Verify_Response_Body"/>
+          <include name="Verify_Response_Code"/>
+          <include name="Verify_Response_Time"/>
+        </methods>
+      </class> <!-- QA_Technical_Test.API_Get_ProductBy_Id -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
